@@ -1,0 +1,15 @@
+.my-list{ 
+    background-color: #161e63;/* change the color  */
+     padding: 8px 24px;
+      width: 500px; 
+     text-size:30px; 
+     border: 1px solid #1d1770; /* change the color  */
+     box-shadow: 0 0 10px 2p #333333;
+       position: absolute; 
+        top: 50%; Left: 50%; 
+         transform: translate(-50%, -50%); 
+}
+          ol{ 
+            margin: 12 px;  } 
+            P{ text-align:left; }/* change the place  */
+            
